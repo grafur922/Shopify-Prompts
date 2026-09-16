@@ -1,0 +1,12 @@
+# Local OS and editor files
+.DS_Store
+.idea/
+.vscode/
+
+# Local generated exports and credentials
+*.log
+*.tmp
+*.local
+.env
+.env.*
+!.env.example
